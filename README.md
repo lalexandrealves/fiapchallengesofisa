@@ -1,5 +1,5 @@
 # fiapchallengesofisa
-Repositorio dos Protótipos apresentados no FIAP Challenge para o Banco Sofisa.
+Repositorio dos Protótipos apresentados pelo Grupo R no FIAP Challenge para o Banco Sofisa .
 
 Dentro do diretório PDFs, vocês irão encontrar todos os resultados dos Notebooks Jupyter e do DashBoard criado no Power BI em formato PDF.
 
